@@ -1,0 +1,1 @@
+# Qt-static-of-path
