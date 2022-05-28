@@ -1,4 +1,4 @@
-# Qt-static-of-path
+# Qt5.15.3
 
 Qt 5.15.3_Mingw_32bit static -skip qtwebengine 
 MingW 730
